@@ -8,7 +8,7 @@ directory. It is used to navigate into or out of folders and files.
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```mkdir stand for make directory. It makes a new folder in the directory that you are currently in. It in named whatever you type after mkdir.
+```mkdir stand for make directory. It creates a new folder in the director/folder that you are currently in. It in named whatever you type after mkdir.
 
 ```
 
@@ -57,18 +57,18 @@ The tag most most of your html code would go would be the main tag within the bo
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-unordered list items <ul> ordered lists <ol> and then the list item <li> that go inside the other 2 types of lists.
+unordered list items <ul> ordered lists <ol> and definition lists <dl>
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex properties relate to the ability to of elements to get bigger or smaller is specified ways as the size of the viewing window changes.  
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+From outside in, there is margin -> border -> padding -> the actual content box. All of them can be individually controlled and add together to create the total size of box model of a specific element.
 ```
