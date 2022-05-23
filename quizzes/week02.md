@@ -64,7 +64,7 @@ DOM stands for document object model and the first file accessed to render it is
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+The 9 ECMAScript types defined by MDN are Data properties, accessor properties, boolean, null, undefined, number, bigint, string, and symbol
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -74,5 +74,5 @@ Parameters are the names of the things being passed to the function and argument
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-A primative data type in JavaScript are single pieces of data while reference value are objects that can store many different types of data.
+A primitive data type in JavaScript are single pieces of data while reference value are objects that can store many different types of data.
 ```
