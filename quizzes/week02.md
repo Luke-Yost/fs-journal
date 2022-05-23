@@ -8,12 +8,18 @@ Var, let, and const are the 3 ways to declare a variable.
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-The definition of a function is 
+The definition of a function is a subprogram for a specific task
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+The SOLID acronym starts for:
+  S- single responsibility principle
+  O- open closed principle
+  L- liskov substitution principle
+  I- interface segregation principle 
+  D- dependency inversion principle
+      big thanks to c#corner.com for actually having the acronym and definition right at the beginning of their article.
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +28,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+pineapple's current position is at fruit[2]. I know this because it is the third string in the array and arrays start counting the first item at 0.
 ```
 **5.** With these two objects: 
 ```js
@@ -32,13 +38,13 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+The most basic if Conditional in JavaScript is the if statement along with the else and else if statements.
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
