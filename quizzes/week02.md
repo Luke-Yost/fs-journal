@@ -44,7 +44,7 @@ you.friends.push(them)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-The most basic if Conditional in JavaScript is the if statement along with the else and else if statements.
+The  if Conditional in JavaScript is the if statement along with the else and else if statements.
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -53,12 +53,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+I++ or I+=1
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+DOM stands for document object model and the first file accessed to render it is the html file.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -69,10 +69,10 @@ for ( let i = 0; i < arr.length; _______ ) {
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+Parameters are the names of the things being passed to the function and arguments are the values nested inside of the parameters.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+A primative data type in JavaScript are single pieces of data while reference value are objects that can store many different types of data.
 ```
