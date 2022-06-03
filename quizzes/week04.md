@@ -3,7 +3,9 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
+Asynchronous code is code that does not necessarily run in order. Some requests for data that go outside the code can be instructed to wait and then run code based on if what data was returned. While waiting for that data, the rest of the code is still being ran.
 
+Synchronous code means that the code has to run in the exact order that it was written and called in. If there is a request for outside data and there is a time delay to receive a response, the code will effectively stop running until some sort of response is received.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
