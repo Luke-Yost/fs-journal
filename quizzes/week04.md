@@ -45,15 +45,15 @@ The Service is responsible for making calls to the APIs.
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+The purpose of encapsulation is to separate out code into different files that can only interact with each other through specifically designated ways. It is meant to be a constraint on what can be sent in and how those inputs are given to a encapsulated program, than a security feature of code. Although it does make files harder to mess with, its main purpose it to filter what is being sent in so that the inputs work with the code inside.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+A successful request response code will come in the form of some sort of 200s ok response.
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+A 500 error is a internal server response error telling you it does not know how to handle the situation you sent to it.
 ```
