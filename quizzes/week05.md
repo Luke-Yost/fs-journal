@@ -3,12 +3,12 @@
 **1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+  C stands for create, R for read, U for update, and D for delete.
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
 ```
-
+  The Create crud action corresponds to Post http request. The reading action represents the Get request. Update with Put, and delete is pretty self explanitory with its corresponding http request also being delete. 
 ```
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
