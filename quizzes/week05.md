@@ -13,17 +13,17 @@
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+  ORM stand for Object Relational Mapper. The ORM we use when communicating with MongoDB is Mongoose.
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
-
+  Post and Put both include a body. 
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
-
+  The first blank is a syncronous coding model, and the second is a asyncronous coding model.
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
